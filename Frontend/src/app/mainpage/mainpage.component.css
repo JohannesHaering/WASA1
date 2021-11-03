@@ -1,0 +1,41 @@
+#banner {
+    background-color: #00B0FF;
+    padding-top: 0.5%;
+    padding-right: 1%;
+    padding-left: 1%;
+    padding-bottom: 0.5%;
+}
+
+img {
+    height: 60px;
+    float:left;
+    padding-right: 2%;
+    margin-top:0.5%;
+}
+
+#taskbar {
+    background-color: lightskyblue;
+    padding: 1%;
+}
+
+button {
+    background-color: lightskyblue; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+#page {
+    border:lightskyblue;
+    border-style: solid;
+    padding:1%;
+}
+
+html,body {
+    padding:0;
+    margin: 0;
+}

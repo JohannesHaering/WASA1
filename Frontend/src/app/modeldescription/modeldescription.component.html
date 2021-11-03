@@ -1,0 +1,22 @@
+<div id="container">
+    Model classification quality:
+    <div style="text-align: center;" [style.margin-top.%] = '10'>
+        <div class="grafico">
+            <div class="content">
+                <div class="bars">
+                    <span>{{statistic.hits}}</span>
+                    <div class="hitbar" [ngStyle]="{'height.%': 100 * (statistic.hits / (statistic.hits + statistic.misses))}"></div>
+                </div>
+                <div class="bars" >
+                    <span>{{statistic.misses}}</span>
+                    <div class="missbar" [ngStyle]="{'height.%': 100 - (100 * (statistic.hits / (statistic.hits + statistic.misses)))}"></div>
+                </div>
+            </div>
+            <div class="line"></div>
+            <div class="legends">
+                <span>Correct labeled</span>
+                <span>Mislabeled</span>
+            </div>
+        </div>
+    </div>
+</div>

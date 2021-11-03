@@ -1,0 +1,36 @@
+<div id="container">
+    <div *ngIf='isReset()'>
+        <h4>Welcome to the model training process!</h4>
+        <p>Step 1: Choose a machine learning method:</p>
+        <select>
+            <option>One Class Support Vector Machine</option>
+        </select>
+        <p>Step 2: Choose a set of features to train on:</p>
+        <select #mySelect (change)="changeSelectedFilter(mySelect.selectedIndex)">
+            <option *ngFor="let filter of availableFilter">{{filter}}</option>
+        </select>
+        <p>Step 3: Choose a name for your trained model:</p>
+        <input #myInput (keyup)="setName(myInput.value)"> <div *ngIf="!nameAvailable" [style.color] = "'red'"> Name not available! </div>
+        <p></p>
+        <button [disabled]="!nameAvailable" (click)="train()"> Train </button>
+    </div>
+    <p></p>
+    <div *ngIf='isTraining()'>
+        Currently Training. Please wait...
+    </div>
+    <div *ngIf='trainingEnded()'>
+        <p>
+            Training completed! Model was automatically saved.
+        </p>
+        <p>
+            Achieved accuracy: {{trainResult}}
+        </p>
+        <p>
+            <button (click)="reset()">Finish</button>
+        </p> 
+        <p>
+            <button (click)="delete()">Delete model</button>
+        </p>
+    </div>
+    
+</div>

@@ -1,0 +1,15 @@
+<div id="banner">
+    <img src="../../assets/cundm.png" alt="C&M logo">
+    <h1 style="font-family:verdana;">
+        Security Attacks Detector - Model Manager
+    </h1>
+</div>
+<div id="taskbar">
+    <button (click) = modelViewClicked() [ngStyle]="{'background-color': activepage == 1 ? '#9dd7fb' : 'lightskyblue'}"> Models </button>
+    <button (click) = trainingButtonClicked() [ngStyle]="{'background-color': activepage == 2 ? '#9dd7fb' : 'lightskyblue'}"> Training </button>
+</div>
+
+<div id="page"> 
+    <app-modelviewpage *ngIf="activepage == 1"></app-modelviewpage>
+    <app-trainingpage *ngIf="activepage == 2"></app-trainingpage>
+</div>

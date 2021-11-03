@@ -1,0 +1,25 @@
+<div>
+    <div id="container">
+        Available models:
+        <p>
+        <select #mySelect (change)="changeSelectedModel(mySelect.selectedIndex)">
+            <option *ngFor="let model of availableModels">{{model}}</option>
+        </select>
+    </div>
+    <div id="modelinformation">
+        <h4> Model overview: {{availableModels[selectedModel]}} </h4>
+        <div id="container" [style.padding-left.%] = "5">
+            Current state of model: {{getModelState()}}
+            <p></p>
+            <button  (click)="deploySelectedModel()" [disabled]="selectedModelActive"> Activate </button>
+            <p></p>
+            Delete model:
+            <p></p>
+            <button (click)="tryDeleteModel()" [disabled]="selectedModelActive">Delete</button>
+        </div>
+        <div id="container">
+            <app-modeldescription [statistic] = "selectedModelStatistic"></app-modeldescription>
+        </div>
+    </div>  
+    <div class="clearfix"></div>
+</div>

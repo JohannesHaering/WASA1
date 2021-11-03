@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c68b45b9-f64c-481c-9bf6-61370c91e335" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1n6iv0ZZbiOZDc1dOEJ5c10NTY4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../src" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.BackendForFrontend">
+    <configuration name="BackendForFrontend" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/BackendForFrontend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/Manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ModelSchema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/domain/machinelearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/domain/machinelearning/ModelSchema.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Modelmanager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/infrastructure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/infrastructure/Modelmanager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.BackendForFrontend" />
+        <item itemvalue="Python.Modelmanager" />
+        <item itemvalue="Python.ModelSchema" />
+        <item itemvalue="Python.Manager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c68b45b9-f64c-481c-9bf6-61370c91e335" name="Default Changelist" comment="" />
+      <created>1610717168728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610717168728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1773" y="823" width="528" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610901412015">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state x="1773" y="823" width="528" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610901412015" />
+    <state x="3323" y="652" width="898" height="900" key="CommitChangelistDialog2" timestamp="1610814582505">
+      <screen x="3000" y="552" width="1920" height="1080" />
+    </state>
+    <state x="3323" y="652" width="898" height="900" key="CommitChangelistDialog2/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610814582505" />
+    <state x="3743" y="851" width="428" height="484" key="FileChooserDialogImpl" timestamp="1611495077490">
+      <screen x="3000" y="552" width="1920" height="1080" />
+    </state>
+    <state x="3743" y="851" width="428" height="484" key="FileChooserDialogImpl/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@3000.552.1920.1080" timestamp="1611495077490" />
+    <state width="1897" height="275" key="GridCell.Tab.0.bottom" timestamp="1610989498797">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="275" key="GridCell.Tab.0.bottom/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610989498797" />
+    <state width="1897" height="275" key="GridCell.Tab.0.center" timestamp="1610989498797">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="275" key="GridCell.Tab.0.center/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610989498797" />
+    <state width="1897" height="275" key="GridCell.Tab.0.left" timestamp="1610989498797">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="275" key="GridCell.Tab.0.left/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610989498797" />
+    <state width="1897" height="275" key="GridCell.Tab.0.right" timestamp="1610989498797">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="275" key="GridCell.Tab.0.right/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610989498797" />
+    <state width="1897" height="340" key="GridCell.Tab.1.bottom" timestamp="1610989098955">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="340" key="GridCell.Tab.1.bottom/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610989098955" />
+    <state width="1897" height="340" key="GridCell.Tab.1.center" timestamp="1610989098955">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="340" key="GridCell.Tab.1.center/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610989098955" />
+    <state width="1897" height="340" key="GridCell.Tab.1.left" timestamp="1610989098955">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="340" key="GridCell.Tab.1.left/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610989098955" />
+    <state width="1897" height="340" key="GridCell.Tab.1.right" timestamp="1610989098955">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state width="1897" height="340" key="GridCell.Tab.1.right/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610989098955" />
+    <state x="1536" y="709" key="SettingsEditor" timestamp="1610899434900">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state x="1536" y="709" key="SettingsEditor/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610899434900" />
+    <state x="3000" y="602" width="1550" height="1001" key="dock-window-1" timestamp="1610810853721">
+      <screen x="3000" y="552" width="1920" height="1080" />
+    </state>
+    <state x="3000" y="602" width="1550" height="1001" key="dock-window-1/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610810853721" />
+    <state x="1667" y="784" width="960" height="1080" key="dock-window-2" timestamp="1610826668439">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state x="1667" y="784" width="960" height="1080" key="dock-window-2/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610826668439" />
+    <state x="1740" y="683" width="599" height="783" key="find.popup" timestamp="1610989321445">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state x="1740" y="683" width="599" height="783" key="find.popup/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610989321445" />
+    <state x="1703" y="782" width="672" height="678" key="search.everywhere.popup" timestamp="1610718983147">
+      <screen x="1080" y="552" width="1920" height="1080" />
+    </state>
+    <state x="1703" y="782" width="672" height="678" key="search.everywhere.popup/1080.552.1920.1080/0.0.1080.1595/3000.552.1920.1080@1080.552.1920.1080" timestamp="1610718983147" />
+  </component>
+</project>
